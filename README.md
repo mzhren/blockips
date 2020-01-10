@@ -1,0 +1,2 @@
+# blockips
+deny from ips
