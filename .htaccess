@@ -92,7 +92,7 @@ Deny from 193.202.81.184
 Deny from 146.247.25.79
 Deny from 46.188.98.10
 Deny from 212.60.21.191
-Deny from 45.139.48.10
+Deny from 45.139.48
 Deny from 46.191.249.176
 Deny from 93.120.155.144
 Deny from 95.85.80.221
@@ -104,7 +104,7 @@ Deny from 185.250.45.220
 Deny from 92.124.161.232
 Deny from 45.80.105.89
 Deny from 95.85.80.238
-Deny from 45.140.207.27
+Deny from 45.140.207
 Deny from 185.251.38.4
 Deny from 91.222.239
 Deny from 45.148.233.59
@@ -128,5 +128,29 @@ Deny from 47.74.240.3
 Deny from 95.181.177.52
 Deny from 185.195.16.78
 Deny from 83.142.52.136
+Deny from 46.147.244.97
+Deny from 159.224.0.215
+Deny from 5.101.217.166
+Deny from 1.10.186.35
+Deny from 146.247.25.42
+Deny from 188.68.3.39
+Deny from 212.60.21.198
+Deny from 185.246.208.141
+Deny from 95.85.80.204
+Deny from 45.80.105.129
+Deny from 134.19.231.200
+Deny from 185.250
+Deny from 39.137.69
+Deny from 45.148
+Deny from 190.15.207.246
+Deny from 91.250.48.221
+Deny from 194.156.125.31
+Deny from 193.202.83.22
+Deny from 193.93.195.220
+Deny from 91.222.236.13
+Deny from 178.159.37.155
+Deny from 95.181.177.73
+Deny from 37.115.203.51
+Deny from 89.191.226.95
 
 # END WordPress
